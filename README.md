@@ -4,7 +4,7 @@
 - 🏦 I'm a high school student and a fullstack developer both.. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.go**, **.py**, **.ipynb**,  **.sql**
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
+- 💬 Talk to me about politics, history, Golang, pet projects😺 etc
 - 👯 We can connect to play some games: minecraft, HD2, Civilization 6, chess or whatever you want)
 - 🧑‍💻 Tech I work on:
 
