@@ -3,7 +3,7 @@
 ### <img src="assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a high school student and a fullstack developer both.. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.go**, **.py**, **.ipynb**,  **.sql**
+- 💻 I use daily: **.go**, **.py**, **.ipynb**,  **.jsx**
 - 💬 Talk to me about politics, history, Golang, pet projects😺 etc
 - 👯 We can connect to play some games: minecraft, HD2, Civilization 6, chess or whatever you want)
 - 🧑‍💻 Tech I work on:
