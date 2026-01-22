@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 ### <img src="assets/Developer.gif" width="45" /> About Me:
-- 🏫 I'm a high school student and a **Machine Learning / Deep Learning engineer**, with solid backend & fullstack experience  
+- 🏫 I'm a HSE Lyceum student and a **Machine Learning / Deep Learning engineer**, with solid backend & fullstack experience  
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤖 My main focus right now is **Machine Learning**:
   - 📷 **Computer Vision** (object detection, classification, motion analysis)
