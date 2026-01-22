@@ -9,7 +9,7 @@
   - 📊 **Classical ML**
 - 🚗 I work on **robotics projects** (autonomous navigation, lidar, CV-based scene understanding)
 - 💻 I use daily: **.py**, **.ipynb**, **.go**, **.jsx**
-- 🧪 I work with **PyTorch**, GPU (RTX 4070 Ti), Jupyter, DataSpell
+- 🧪 I work with **PyTorch**, GPU, Jupyter, DataSpell
 - 💬 Talk to me about ML, DL, CV, Golang, infrastructure, politics, history, pet projects 😺
 - 👯 We can connect to play some games: minecraft, HD2, Civilization VI, chess — or whatever you want
 
@@ -19,6 +19,8 @@
 <div align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="55" height="55"/>
@@ -35,8 +37,9 @@
 
 ### 🧠 ML stack:
 - **PyTorch**, torchvision
-- Classical ML (sklearn, feature engineering)
-- Computer Vision (CNNs, image/video processing)
+- **scikit-learn** (classical ML, feature engineering, pipelines)
+- **CatBoost** (tabular data, gradient boosting)
+- Computer Vision (CNNs, image processing)
 - NLP (tokenization, embeddings, transformers – basics & practice)
 - Experimentation in **Jupyter Notebooks**
 - GPU-accelerated training & inference
