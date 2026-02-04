@@ -51,11 +51,6 @@
       <img src="assets/yandex.png" height="55"/>
       <img src="https://acdn.tinkoff.ru/static/pfa-multimedia/images/e3283f8b-eeb6-4471-9ea7-965ff52435f1.svg" height="55"/>
 </div>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackfireZZZ&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackfireZZZ&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/BlackfireZZZ/LinksShortener">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackfireZZZ&repo=LinksShortener&theme=dark" />
 </a>
