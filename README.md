@@ -42,7 +42,6 @@
 - Computer Vision (CNNs, image processing)
 - NLP (tokenization, embeddings, transformers – basics & practice)
 - Experimentation in **Jupyter Notebooks**
-- GPU-accelerated training & inference
 
 ---
 
