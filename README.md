@@ -17,6 +17,7 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50"/><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" height="50"/><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="50"/><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="50"/><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" height="50"/><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="50"/><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/>
 </p>
+
 ---
 
 ### 🧠 ML stack:
