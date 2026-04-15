@@ -14,23 +14,8 @@
 - 👯 We can connect to play some games: minecraft, HD2, Civilization VI, chess — or whatever you want
 
 ---
-
-### 🧑‍💻 Tech I work with:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50"/><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" height="50"/><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="50"/><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" height="50"/><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" height="50"/><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="50"/><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/>
 </p>
 ---
 
